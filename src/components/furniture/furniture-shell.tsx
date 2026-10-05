@@ -134,7 +134,7 @@ export function FurnitureShell({ children }: { children: ReactNode }) {
             <Menu className="size-5" />
           </Button>
           <div className="min-w-0">
-            <p className="text-[11px] uppercase tracking-[0.16em] text-zinc-500">Atelier</p>
+            <p className="text-[11px] uppercase tracking-[0.16em] text-zinc-500">Atelieer</p>
             <p className="truncate text-sm font-semibold">{currentLabel(pathname)}</p>
           </div>
         </header>
